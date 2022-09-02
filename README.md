@@ -15,6 +15,6 @@
 
  bash setup > [TERMUX] :
 
- bash tmux_setup  > RUN :
+ $ bash tmux_setup  > RUN :
 
-bash nexphisher
+ $ bash nexphisher
